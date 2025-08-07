@@ -3,13 +3,33 @@
    "how to change link color." */
 
 body {
-  background-color: black;
+  background-image: url("strobelight.gif");
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 h1{
+  background: black;
+  border-style: solid;
+  border-width: 5px;
+  border-color: green;
+  padding: 5px;
   color:white;
   font-family: "Quintessential", system-ui;
 }
 p{
   color:white;
   font-family: "Press Start 2P", system-ui;
+  background: black;
+  border-style: solid;
+  border-width: 5px;
+  border-color: green;
+  padding: 5px;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+
 }
