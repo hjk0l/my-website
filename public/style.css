@@ -21,6 +21,10 @@ body{
   
 }
 
+.nightclub_music{
+  color:white;
+}
+
 p{
   color:white;
   font-family: "Press Start 2P", system-ui;
@@ -29,7 +33,9 @@ p{
   padding: 5px;
 }
 
-#underwater-box{
+.underwater-box{
   text-align:center;
   color:white;
 }
+
+
