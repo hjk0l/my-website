@@ -3,7 +3,7 @@
    "how to change link color." */
 
 body{
-  background-image: url("./images-gifs/strobelight.gif");
+  background-image: url("strobelight.gif");
   background-repeat:no-repeat;
   background-attachment: fixed;
   background-position: center;
