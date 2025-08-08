@@ -9,27 +9,27 @@ body{
   background-position: center;
   background-size: cover;
 }
-h1{
-  background: black;
-  border-style: solid;
-  border-width: 5px;
-  margin: auto;
-  border-color: green;
-  padding: 5px;
-  color:white;
-  font-family: "Quintessential", system-ui;
+
+.center-title{
+  text-align:center;
+  text-shadow:
+    1px 1px 2px rgb(0, 255, 98),
+    0 0 1em rgb(0, 255, 0),
+    0 0 0.2em rgb(0, 255, 0);
+  color: white;
+  font-size: 50px;
+  
 }
+
 p{
   color:white;
   font-family: "Press Start 2P", system-ui;
   background: black;
-  border-style: solid;
-  margin: auto;
-  border-width: 5px;
-  border-color: green;
+  border: 5px solid green;
   padding: 5px;
 }
-ul{
-  list-style-type: none;
-  text-align: center;
+
+#underwater-box{
+  text-align:center;
+  color:white;
 }
