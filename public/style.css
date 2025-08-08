@@ -21,12 +21,11 @@ body{
   
 }
 
-p{
-  color:white;
-  font-family: "Press Start 2P", system-ui;
-  background: black;
-  border: 5px solid green;
-  padding: 5px;
+.center-guide{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-family: "Press Start 2P"
 }
 
 .underwater-box{
